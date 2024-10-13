@@ -3,11 +3,11 @@
 I'm a rusty software dev trying to get back into it and improve my current skills
 
 Current objectives: <br/>
-&nbsp; Re: C# Basics: <br/>
-&nbsp;  &nbsp;  ☐ Classes/Objects
-&nbsp;  &nbsp;  ☐ Exceptions
-&nbsp;  &nbsp;  ☐ Interfaces
-&nbsp;  &nbsp;  ☐ Async 
-&nbsp;  &nbsp;  ☐ API's
-&nbsp;  &nbsp;  ☐ Design Patterns 
+&nbsp; &nbsp; Re: C# Basics: <br/>
+&nbsp;  &nbsp;  &nbsp; &nbsp; ☐ Classes/Objects <br/>
+&nbsp;  &nbsp;  &nbsp; &nbsp; ☐ Exceptions <br/>
+&nbsp;  &nbsp;  &nbsp; &nbsp; ☐ Interfaces <br/>
+&nbsp;  &nbsp;  &nbsp; &nbsp; ☐ Async <br/>
+&nbsp;  &nbsp;  &nbsp; &nbsp; ☐ API's <br/>
+&nbsp;  &nbsp;  &nbsp; &nbsp; ☐ Design Patterns <br/>
     
