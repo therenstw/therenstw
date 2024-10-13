@@ -2,8 +2,8 @@
 
 I'm a rusty software dev trying to get back into it and improve my current skills
 
-Current objectives: 
-&nbsp; Re: C# Basics: 
+Current objectives: <br/>
+&nbsp; Re: C# Basics: <br/>
 &nbsp;  &nbsp;  ☐ Classes/Objects
 &nbsp;  &nbsp;  ☐ Exceptions
 &nbsp;  &nbsp;  ☐ Interfaces
