@@ -2,7 +2,7 @@
 
 I'm a rusty software dev trying to get back into it and improve my current skills
 
-Current objectives: <br/>
+Current objectives: <br/> <br/>
 &nbsp; &nbsp; Re: C# Basics: <br/>
 &nbsp;  &nbsp;  &nbsp; &nbsp; ☐ Classes/Objects <br/>
 &nbsp;  &nbsp;  &nbsp; &nbsp; ☐ Exceptions <br/>
