@@ -3,7 +3,7 @@
 I'm a rusty software dev trying to get back into it and improve my current skills
 
 Current objectives: 
-  Re: C# Basics: 
+&nbsp Re: C# Basics: 
         ☐ Classes/Objects
         ☐ Exceptions
         ☐ Interfaces
