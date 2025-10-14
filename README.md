@@ -1,5 +1,4 @@
-## Welcome to my page
+## Welcome
 
-getting back into it and improve my current skills
-
+getting back into it
     
